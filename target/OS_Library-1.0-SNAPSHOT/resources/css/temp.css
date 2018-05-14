@@ -1,0 +1,93 @@
+body{
+    background: #AAC1FF;
+}
+.a1{
+    text-decoration:none;
+    color: black;
+}
+header{
+    background: #71FFFF;
+    margin-top: 2% ;
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 96%;
+    border-radius: 26px;
+    height: 103px;
+    text-align: center;
+}
+#librIMG{
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-left: 8%;
+}
+h1{
+    padding-top: 30px;
+}
+.leftDIV{
+    position: fixed;
+    background: #71FFFF;
+    width: 20%;
+}
+.allDIVs{
+    border-radius: 26px;
+    margin-top: 1% ;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+ul{
+    list-style-type:none;
+    font-size: 2em;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    width: 200px;
+    text-align: center;
+}
+li{
+    margin-top: 3%;
+}
+li:hover{
+    border-radius: 26px;
+    border: 3px solid #555;
+}
+footer {
+    margin-top: 1%;
+    padding: 1em;
+    color: black;
+    background-color: #00AEAE;
+    clear: left;
+    text-align: center;
+    border-radius: 16px;
+    position: absolute;
+    left: 2%;
+    right: 2%;
+    bottom: 2%;
+}
+.centerDIV{
+    position: relative;
+    height: 200px;
+    width: 73%;
+    background: blue;
+    margin-left: 25%;
+}
+.logo{
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin-left: 1%;
+    margin-top: 0.5%;
+}
+.log-out-btn{
+    position: absolute;
+    right: 4%;
+    top: 10%;
+    width: 5%;
+    padding: 12px 20px;
+    margin: 3px 0;
+    border-radius: 16px;
+    background: #AAC1FF;
+}
+.imgUser{
+    width: 40px;
+    height: 40px;
+}

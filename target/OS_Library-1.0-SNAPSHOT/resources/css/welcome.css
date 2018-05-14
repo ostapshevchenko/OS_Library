@@ -1,0 +1,97 @@
+body{
+    background: #AAC1FF;
+}
+a{
+    text-decoration:none;
+    color: black;
+}
+.mDIV{
+    margin-top : 7%;
+    margin-left: auto;
+    margin-right: auto;
+    background: #71FFFF;
+    width : 55%;
+    height: 300px;
+    border-radius: 26px;
+}
+#wlcm{
+    text-align: center;
+}
+#div-f1{
+    margin: 0 auto;
+    width: 40%;
+}
+.log-btn{
+    position: relative;
+    width: 83px;
+    padding: 12px 20px;
+    margin-top: 2px;
+    margin-left: 90%;
+    box-sizing: border-box;
+    border-radius: 16px;
+    background: #71FFFF;
+}
+input[type=text],input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 16px;
+}
+input[type=text]:focus,input[type=password]:focus{
+    border: 3px solid #555;
+}
+select{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 16px;
+}
+select:focus{
+    border: 3px solid #555;
+}
+#signUP-btn{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 16px;
+    float: right;
+    background: #AAC1FF;
+}
+#logIN-btn{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 16px;
+    float: right;
+    background: #AAC1FF;
+}
+.lDIV{
+    margin-top : 5%;
+    margin-left: auto;
+    margin-right: auto;
+    background: #71FFFF;
+    width : 55%;
+    height: 450px;
+    border-radius: 26px;
+}
+.back-btn{
+    width: 83px;
+    padding: 12px 20px;
+    margin-top: 2px;
+    box-sizing: border-box;
+    border-radius: 16px;
+    background: #71FFFF;
+}
+.btn{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 16px;
+    float: right;
+    background: #AAC1FF;
+}
